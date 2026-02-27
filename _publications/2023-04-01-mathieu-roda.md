@@ -1,7 +1,7 @@
 ---
 title: "A meta-analysis on wood trade flow modeling concepts"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2023-04-01-mathieu-roda
 excerpt: 'Based on a meta-analysis of 499 publications, this paper provides the first comprehensive overview of wood trade flow models, showing that they are predominantly used for policy analysis, rely on a narrow set of factors, and largely overlook emerging drivers such as urban dynamics.'
 date: 2023-04-01

@@ -88,13 +88,12 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  documents:
+    title: 'Other published documents'    
   conferences:
     title: 'Conference Papers'
-  articles:
-    title: 'Articles published in refereed journals'
-  documents:
-    title: 'Other published documents'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
