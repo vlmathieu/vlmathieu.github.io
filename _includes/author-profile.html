@@ -43,7 +43,10 @@
       {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
-      {% endif %}      
+      {% endif %}     
+      {% if author.arxiv %}
+        <li><a href="{{ author.conversation }}"><i class="ai ai-conversation ai-fw icon-pad-right"></i>The Conversation</a></li>
+      {% endif %}   
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
