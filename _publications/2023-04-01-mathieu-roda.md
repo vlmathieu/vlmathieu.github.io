@@ -8,7 +8,7 @@ date: 2023-04-01
 venue: 'Forest Policy and Economics'
 paperurl: 'https://vlmathieu.github.io/files/1-s2.0-S1389934123000254-main.pdf'
 bibtexurl: 'https://vlmathieu.github.io/files/2023-mathieu-roda.bib'
-citation: 'Mathieu, V., & Roda, J. M. (2023). &quot;A meta-analysis on wood trade flow modeling concepts.&quot; <i>Forest Policy and Economics, 149<i/>, 102930. https://doi.org/10.1016/j.forpol.2023.102930'
+citation: 'Mathieu, V., & Roda, J. M. (2023). A meta-analysis on wood trade flow modeling concepts. <i>Forest Policy and Economics, 149,</i> 102930. <a href="https://doi.org/10.1016/j.forpol.2023.102930">https://doi.org/10.1016/j.forpol.2023.102930</a>'
 ---
 
 **Abstract**
