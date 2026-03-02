@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Current position
+Current position
+======
 ***
 
 **AgroParisTech research engineer**<br>
@@ -30,8 +31,17 @@ Applied mathematics and data science (Graph theory, Machine Learning), Geographi
 **Research themes:**
 Forest-wood sector, Wood products, Trade, Forest-based bioeconomy, Forest Policy, Urbanisation
 
+
+Publications
+======
+***
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
+***
 
 <details> 
 
@@ -48,37 +58,118 @@ Education
 
 </details>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<details>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <summary>
+    <strong>M.Sc. in Forest Science</strong><br>
+    AgroParisTech, Nancy, France | 2015-2019
+  </summary><br>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  **Major**: Forest Resources and Forest-based Industries (RFF).
+
+</details>
+
+<details>
+
+  <summary>
+    <strong>M.Sc in Business and Market Economics</strong><br>
+    Faculté de Droit, Sciences Économiques et Gestion, Université de Lorraine, Nancy, France | 2016-2019
+  </summary><br>
+
+  **Major:** Economics of Energy, Environmental and Digital Transition (ETEEN).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+</details>
 
-Publications
+**Diploma in Forest Sciences and Engineering from AgroParisTech**<br>
+AgroParisTech, Nancy, France | 2016-2019
+
+<details>
+
+  <summary>
+    <strong>M.Sc. Agrosciences, Environment, Territories, Landscape, Forest (AETPF)</strong><br>
+    AgroParisTech et Université de Lorraine, Nancy, France | 2018-2019
+  </summary><br>
+
+  **Major:** Wood, Forest, Sustainable Development (BFD).
+  
+</details>
+
+**AgroParisTech International Experience Certificate**
+AgroParisTech, Paris, France | 2017-2018
+
+<details>
+
+  <summary>
+    <strong>Certificate of Training in Preparatory Classes for the Grandes Écoles</strong><br>
+    Lycée Privée Sainte Geneviève, Versailles, France | 2013-2015
+  </summary><br>
+
+  **Major:** Biology, Chemistry, Physics, Earth Sciences (BCPST).
+
+</details>
+
+Past experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+***
+
+<details>
+
+  <summary>
+    <strong>Research engineer at INRAE</strong><br>
+    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | oct. 2019-sept.2020
+  </summary><br>
+
+  **Subject:** Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
+
+  **Supervision:** Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).
+
+  **Related project:** Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
+
+  **Production:** Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
+
+</details>
+
+<details>
+
+  <summary>
+    <strong>Master thesis</strong><br>
+    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | mars 2019-août 2019
+  </summary><br>
+
+  **Subject:** Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
+  
+  **Supervision:** Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
+
+  **Production:** Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document
+  
+</details>
+
+<details>
+
+  <summary>
+    <strong>Research assistant</strong><br>
+    UR Forêts et Sociétés, CIRAD, Kuala Lumpur, Malaisie | sept. 2017-fév. 2018
+  </summary><br>
+
+  **Subject:** Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.
+  
+  **Supervision:** Jean-Marc Roda (CIRAD).
+  
+</details>
+
+<details>
+
+  <summary>
+    <strong>Assistant engineer</strong><br>
+    Wood Department, Nord-Alsace Branch, Office National des Forêts, Ingwiller, France | juin 2017-août 2017
+  </summary><br>
+
+  **Subject:** Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
+  
+  **Supervision:** Julien Prinet (National Forest Office of France).
+  
+</details>
+
   
 Talks
 ======
@@ -95,3 +186,26 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Collective Responsibilities
+======
+***
+
+**Member of the Scientific Comittee of ProSilva France**<br>
+ProSilva France, Nancy, France | jan. 2025-
+
+**Elected member of the UMR SILVA Scientific Committee**<br>
+Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, France | oct. 2024-
+
+Skills
+======
+***
+
+**Languages:**
+French: mother tongue; English: academic and fluent.
+
+**Coding & software:**
+Python, R, [GRASS GIS](https://grass.osgeo.org), Markdown, Quarto, GitHub.
+
+**Multimedia graphics:**
+[Suite Affinity](https://affinity.serif.com/en-gb/), Adobe Photoshop.
