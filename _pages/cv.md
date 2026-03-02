@@ -47,7 +47,7 @@ Education
 
   <summary>
     <strong>Ph.D. in economics</strong><br>
-    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023<br>
+    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
   </summary><br>
 
   <b>Thesis:</b> Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.<br><br>
@@ -58,7 +58,7 @@ Education
 
 </details>
 
-<details>
+<br><details>
 
   <summary>
     <strong>M.Sc. in Forest Science</strong><br>
