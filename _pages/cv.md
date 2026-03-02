@@ -47,8 +47,8 @@ Education
 
   <summary>
     <strong>Ph.D. in economics</strong><br>
-    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
-  </summary><br><br>
+    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023<br>
+  </summary><br>
 
   <b>Thesis:</b> Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.<br><br>
 
@@ -65,9 +65,9 @@ Education
     AgroParisTech, Nancy, France | 2015-2019
   </summary><br>
 
-  **Major**: Forest Resources and Forest-based Industries (RFF).
+  <b>Major:</b> Forest Resources and Forest-based Industries (RFF).<br><br>
 
-</details><br>
+</details>
 
 <details>
 
@@ -76,9 +76,9 @@ Education
     Faculté de Droit, Sciences Économiques et Gestion, Université de Lorraine, Nancy, France | 2016-2019
   </summary><br>
 
-  **Major:** Economics of Energy, Environmental and Digital Transition (ETEEN).
+  <b>Major:</b> Economics of Energy, Environmental and Digital Transition (ETEEN).<br>
   
-</details><br>
+</details>
 
 **Diploma in Forest Sciences and Engineering from AgroParisTech**<br>
 AgroParisTech, Nancy, France | 2016-2019
