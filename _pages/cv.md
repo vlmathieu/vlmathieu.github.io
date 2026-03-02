@@ -56,7 +56,7 @@ Education
   
   **Committee:** Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.
 
-</details>
+</details><br>
 
 <details>
 
@@ -67,7 +67,7 @@ Education
 
   **Major**: Forest Resources and Forest-based Industries (RFF).
 
-</details>
+</details><br>
 
 <details>
 
@@ -78,7 +78,7 @@ Education
 
   **Major:** Economics of Energy, Environmental and Digital Transition (ETEEN).
   
-</details>
+</details><br>
 
 **Diploma in Forest Sciences and Engineering from AgroParisTech**<br>
 AgroParisTech, Nancy, France | 2016-2019
@@ -92,7 +92,7 @@ AgroParisTech, Nancy, France | 2016-2019
 
   **Major:** Wood, Forest, Sustainable Development (BFD).
   
-</details>
+</details><br>
 
 **AgroParisTech International Experience Certificate**
 AgroParisTech, Paris, France | 2017-2018
@@ -106,7 +106,7 @@ AgroParisTech, Paris, France | 2017-2018
 
   **Major:** Biology, Chemistry, Physics, Earth Sciences (BCPST).
 
-</details>
+</details><br>
 
 Past experience
 ======
