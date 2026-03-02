@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Current position
+***
 
 **AgroParisTech research engineer**<br>
 Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, France | jan. 2024-
@@ -18,6 +19,7 @@ In charge of the <i><a href="https://www.agroparistech.fr/formations-ingenieur/3
 
 Research fields
 ======
+***
 
 **Disciplines:**
 Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics
