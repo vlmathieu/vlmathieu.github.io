@@ -44,6 +44,7 @@ Education
 ***
 
 <details> 
+
   <summary>
     <strong>Ph.D. in economics</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
@@ -51,13 +52,17 @@ Education
   <b>Thesis:</b> Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.<br><br>
   <b>Supervisors:</b> Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).<br><br>
   <b>Committee:</b> Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.<br><br>
-</details><br>
+
+</details>
+
 <details>
+
   <summary>
     <strong>M.Sc. in Forest Science</strong><br>
     AgroParisTech, Nancy, France | 2015-2019
   </summary><br>
   <b>Major:</b> Forest Resources and Forest-based Industries (RFF).<br><br>
+
 </details>
 
 <details>
@@ -79,10 +84,9 @@ AgroParisTech, Nancy, France | 2016-2019
     <strong>M.Sc. Agrosciences, Environment, Territories, Landscape, Forest (AETPF)</strong><br>
     AgroParisTech et Université de Lorraine, Nancy, France | 2018-2019
   </summary><br>
-
-  **Major:** Wood, Forest, Sustainable Development (BFD).
+  <b>Major:</b> Wood, Forest, Sustainable Development (BFD).<br>
   
-</details><br>
+</details>
 
 **AgroParisTech International Experience Certificate**
 AgroParisTech, Paris, France | 2017-2018
@@ -93,10 +97,9 @@ AgroParisTech, Paris, France | 2017-2018
     <strong>Certificate of Training in Preparatory Classes for the Grandes Écoles</strong><br>
     Lycée Privée Sainte Geneviève, Versailles, France | 2013-2015
   </summary><br>
+  <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).<br>
 
-  **Major:** Biology, Chemistry, Physics, Earth Sciences (BCPST).
-
-</details><br>
+</details>
 
 Past experience
 ======
@@ -108,16 +111,12 @@ Past experience
     <strong>Research engineer at INRAE</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | oct. 2019-sept.2020
   </summary><br>
+  <b>Subject:</b> Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.<br>
+  <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).<br>
+  <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).<br>
+  <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document<br>
 
-  **Subject:** Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
-
-  **Supervision:** Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).
-
-  **Related project:** Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
-
-  **Production:** Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
-
-</details><br>
+</details>
 
 <details>
 
@@ -125,14 +124,11 @@ Past experience
     <strong>Master thesis</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | mars 2019-août 2019
   </summary><br>
-
-  **Subject:** Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
+  <b>Subject:</b> Analysis of wood trade flow models from the perspective of notions of place, space, and scale.<br>
+  <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).<br>
+  <b>Production:</b> Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document<br>
   
-  **Supervision:** Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
-
-  **Production:** Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document
-  
-</details><br>
+</details>
 
 <details>
 
@@ -140,12 +136,10 @@ Past experience
     <strong>Research assistant</strong><br>
     UR Forêts et Sociétés, CIRAD, Kuala Lumpur, Malaisie | sept. 2017-fév. 2018
   </summary><br>
-
-  **Subject:** Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.
+  <b>Subject:</b> Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.<br>
+  <b>Supervision:</b> Jean-Marc Roda (CIRAD).<br>
   
-  **Supervision:** Jean-Marc Roda (CIRAD).
-  
-</details><br>
+</details>
 
 <details>
 
@@ -153,12 +147,10 @@ Past experience
     <strong>Assistant engineer</strong><br>
     Wood Department, Nord-Alsace Branch, Office National des Forêts, Ingwiller, France | juin 2017-août 2017
   </summary><br>
-
-  **Subject:** Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
+  <b>Subject:</b> Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.<br>
+  <b>Supervision:</b> Julien Prinet (National Forest Office of France).<br>
   
-  **Supervision:** Julien Prinet (National Forest Office of France).
-  
-</details><br>
+</details>
 
   
 Talks
