@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Current position
-======
+## Current position
 
-**AgroParisTech research engineer**
+**AgroParisTech research engineer**<br>
 Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, France | jan. 2024-
 
-In charge of the *Forest Information and Resource Strategies* (FIRS) major at AgroParisTech (M.Sc.2)
+In charge of the <i><a href="https://www.agroparistech.fr/formations-ingenieur/3a-dominante-forest-information-and-resource-strategies">Forest Information and Resource Strategies</a></i> (FIRS) major at AgroParisTech (M.Sc.2)
 
 Research fields
 ======
