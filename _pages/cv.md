@@ -50,13 +50,12 @@ Education
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
   </summary><br>
 
-  **Thesis:** Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.
+  <b>Thesis:</b> Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.<br>
+  <b>Supervisors:</b> Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).<br>
   
-  **Supervisors:** Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).
-  
-  **Committee:** Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.
+  <b>Committee:</b> Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.<br>
 
-</details><br>
+</details>
 
 <details>
 
@@ -127,7 +126,7 @@ Past experience
 
   **Production:** Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
 
-</details>
+</details><br>
 
 <details>
 
@@ -142,7 +141,7 @@ Past experience
 
   **Production:** Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document
   
-</details>
+</details><br>
 
 <details>
 
@@ -155,7 +154,7 @@ Past experience
   
   **Supervision:** Jean-Marc Roda (CIRAD).
   
-</details>
+</details><br>
 
 <details>
 
@@ -168,7 +167,7 @@ Past experience
   
   **Supervision:** Julien Prinet (National Forest Office of France).
   
-</details>
+</details><br>
 
   
 Talks
