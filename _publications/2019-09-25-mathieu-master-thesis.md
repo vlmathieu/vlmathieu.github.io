@@ -5,7 +5,7 @@ category: documents
 permalink: /publication/2019-09-25-mathieu-master-thesis
 excerpt: 'Drawing on modern international trade theories—particularly those of Paul Krugman and the New Economic Geography—this work evaluates how integrating spatial concepts into Forest Sector Models can improve the representation of wood flows, showing through comparative modeling and simulations based on FAOSTAT data that newer trade theories enhance the spatial modeling of the forest sector.'
 date: 2019-09-25
-venue: 'Master thesis'
+venue: 'Hal'
 paperurl: 'https://vlmathieu.github.io/files/Report_Valentin_MATHIEU.pdf'
 citation: 'Mathieu, V. (2019). <i>Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale</i> (Master thesis, AgroParisTech).'
 ---
