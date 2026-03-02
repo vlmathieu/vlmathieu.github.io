@@ -44,7 +44,6 @@ Education
 ***
 
 <details> 
-
   <summary>
     <strong>Ph.D. in economics</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
@@ -52,18 +51,13 @@ Education
   <b>Thesis:</b> Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.<br><br>
   <b>Supervisors:</b> Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).<br><br>
   <b>Committee:</b> Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.<br><br>
-
-</details>
-<br>
+</details><br>
 <details>
-
   <summary>
     <strong>M.Sc. in Forest Science</strong><br>
     AgroParisTech, Nancy, France | 2015-2019
   </summary><br>
-
   <b>Major:</b> Forest Resources and Forest-based Industries (RFF).<br><br>
-
 </details>
 
 <details>
@@ -72,7 +66,6 @@ Education
     <strong>M.Sc in Business and Market Economics</strong><br>
     Faculté de Droit, Sciences Économiques et Gestion, Université de Lorraine, Nancy, France | 2016-2019
   </summary><br>
-
   <b>Major:</b> Economics of Energy, Environmental and Digital Transition (ETEEN).<br>
   
 </details>
