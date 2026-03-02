@@ -9,11 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Current position
+======
+
+**AgroParisTech research engineer**
+Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, France | jan. 2024-
+
+In charge of the *Forest Information and Resource Strategies* (FIRS) major at AgroParisTech (M.Sc.2)
+
+Research fields
+======
+
+**Disciplines:**
+Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics
+
+**Methods:**
+Applied mathematics and data science (Graph theory, Machine Learning), Geographic Information Systems, Bilateral trade / forest data (FAOSTAT, UN Comtrade)
+
+**Research themes:**
+Forest-wood sector, Wood products, Trade, Forest-based bioeconomy, Forest Policy, Urbanisation
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+<details> 
+
+  <summary>
+    <strong>Ph.D. in economics</strong><br>
+    Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | 2020-2023
+  </summary><br>
+
+  **Thesis:** Wood, Cities, and Trade : An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.
+  
+  **Supervisors:** Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).
+  
+  **Committee:** Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.
+
+</details>
 
 Work experience
 ======
