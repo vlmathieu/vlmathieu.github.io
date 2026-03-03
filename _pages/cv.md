@@ -42,7 +42,7 @@ Publications
 Education
 ======
 ***
-
+<p>
 <details> 
 
   <summary>
@@ -54,7 +54,7 @@ Education
   <b>Committee:</b> Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.<br><br>
 
 </details>
-
+</p>
 
 <details>
 
