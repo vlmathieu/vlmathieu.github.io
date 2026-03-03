@@ -42,6 +42,7 @@ Publications
 Education
 ======
 ***
+
 <p>
 <details> 
 
@@ -56,6 +57,7 @@ Education
 </details>
 </p>
 
+<p>
 <details>
 
   <summary>
@@ -65,7 +67,9 @@ Education
   <b>Major:</b> Forest Resources and Forest-based Industries (RFF).<br><br>
 
 </details>
+</p>
 
+<p>
 <details>
 
   <summary>
@@ -75,10 +79,12 @@ Education
   <b>Major:</b> Economics of Energy, Environmental and Digital Transition (ETEEN).<br>
   
 </details>
+</p>
 
 **Diploma in Forest Sciences and Engineering from AgroParisTech**<br>
 AgroParisTech, Nancy, France | 2016-2019
 
+<p>
 <details>
 
   <summary>
@@ -88,10 +94,12 @@ AgroParisTech, Nancy, France | 2016-2019
   <b>Major:</b> Wood, Forest, Sustainable Development (BFD).<br>
   
 </details>
+</p>
 
 **AgroParisTech International Experience Certificate**
 AgroParisTech, Paris, France | 2017-2018
 
+<p>
 <details>
 
   <summary>
@@ -101,11 +109,13 @@ AgroParisTech, Paris, France | 2017-2018
   <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).<br>
 
 </details>
+</p>
 
 Past experience
 ======
 ***
 
+<p>
 <details>
 
   <summary>
@@ -118,7 +128,9 @@ Past experience
   <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document<br>
 
 </details>
+</p>
 
+<p>
 <details>
 
   <summary>
@@ -130,7 +142,9 @@ Past experience
   <b>Production:</b> Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document<br>
   
 </details>
+</p>
 
+<p>
 <details>
 
   <summary>
@@ -141,7 +155,9 @@ Past experience
   <b>Supervision:</b> Jean-Marc Roda (CIRAD).<br>
   
 </details>
+</p>
 
+<p>
 <details>
 
   <summary>
@@ -152,7 +168,7 @@ Past experience
   <b>Supervision:</b> Julien Prinet (National Forest Office of France).<br>
   
 </details>
-
+</p>
   
 Talks
 ======
