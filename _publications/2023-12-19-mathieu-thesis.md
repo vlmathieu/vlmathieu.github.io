@@ -5,7 +5,7 @@ category: documents
 permalink: /publication/2023-12-19-mathieu-thesis
 excerpt: 'This thesis assesses the capacity of wood trade flow models to support sustainable resource management by examining their theoretical foundations, factor coverage, and data quality, while proposing new approaches that integrate urban dynamics, improve trade data reliability, and enhance the modeling of the global wood economy.'
 date: 2023-12-19
-venue: 'Hal'
+available: 'Hal'
 paperurl: 'https://hal.univ-lorraine.fr/tel-04594758v1'
 citation: 'Mathieu, V. (2023). <i>Wood, Cities, and Trade: An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade</i> (Doctoral dissertation, Universit&eacute; de Lorraine).'
 ---
