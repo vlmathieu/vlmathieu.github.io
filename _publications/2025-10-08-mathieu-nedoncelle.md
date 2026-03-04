@@ -5,7 +5,7 @@ category: work_in_progress
 permalink: /publication/2025-10-08-mathieu-nedoncelle
 excerpt: 'Using a structural gravity model on global timber trade data (2000–2021), this paper shows that due diligence regulations significantly reduce timber exports in a largely indiscriminate manner—affecting both high- and low-risk exporters—while suggesting that more risk-targeted approaches could better balance environmental objectives and trade efficiency.'
 date: 2025-10-08
-venue: 'Hal'
+venue: 'Ecological Economics'
 paperurl: 'https://hal.science/hal-05303899v1/file/mathieu_nedoncelle2025.pdf'
 citation: 'Mathieu, V., & Nedoncelle, C. (2025). Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets. <a href="https://hal.science/hal-05303899v1">⟨hal-05303899⟩</a>'
 ---
