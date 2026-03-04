@@ -7,7 +7,7 @@ excerpt: 'Using a structural gravity model on global timber trade data (2000–2
 date: 2025-10-08
 venue: 'Hal'
 paperurl: 'https://hal.science/hal-05303899v1/file/mathieu_nedoncelle2025.pdf'
-citation: 'Valentin Mathieu, Clément Nedoncelle. Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets. 2025. <a href="https://hal.science/hal-05303899v1">⟨hal-05303899⟩</a>'
+citation: 'Mathieu, V., & Nedoncelle, C. (2025). Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets. <a href="https://hal.science/hal-05303899v1">⟨hal-05303899⟩</a>'
 ---
 
 **Abstract**
