@@ -76,7 +76,7 @@ Education
     <strong>M.Sc in Business and Market Economics</strong><br>
     Faculté de Droit, Sciences Économiques et Gestion, Université de Lorraine, Nancy, France | 2016-2019
   </summary><br>
-  <b>Major:</b> Economics of Energy, Environmental and Digital Transition (ETEEN).<br>
+  <b>Major:</b> Economics of Energy, Environmental and Digital Transition (ETEEN).<br><br>
   
 </details>
 </p>
@@ -91,7 +91,7 @@ AgroParisTech, Nancy, France | 2016-2019
     <strong>M.Sc. Agrosciences, Environment, Territories, Landscape, Forest (AETPF)</strong><br>
     AgroParisTech et Université de Lorraine, Nancy, France | 2018-2019
   </summary><br>
-  <b>Major:</b> Wood, Forest, Sustainable Development (BFD).<br>
+  <b>Major:</b> Wood, Forest, Sustainable Development (BFD).<br><br>
   
 </details>
 </p>
@@ -106,7 +106,7 @@ AgroParisTech, Paris, France | 2017-2018
     <strong>Certificate of Training in Preparatory Classes for the Grandes Écoles</strong><br>
     Lycée Privée Sainte Geneviève, Versailles, France | 2013-2015
   </summary><br>
-  <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).<br>
+  <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).<br><br>
 
 </details>
 </p>
@@ -122,10 +122,10 @@ Past experience
     <strong>Research engineer at INRAE</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | oct. 2019-sept.2020
   </summary><br>
-  <b>Subject:</b> Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.<br>
-  <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).<br>
-  <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).<br>
-  <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document<br>
+  <b>Subject:</b> Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.<br><br>
+  <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).<br><br>
+  <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).<br><br>
+  <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document<br><br>
 
 </details>
 </p>
@@ -137,9 +137,9 @@ Past experience
     <strong>Master thesis</strong><br>
     Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA, Nancy, France | mars 2019-août 2019
   </summary><br>
-  <b>Subject:</b> Analysis of wood trade flow models from the perspective of notions of place, space, and scale.<br>
-  <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).<br>
-  <b>Production:</b> Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document<br>
+  <b>Subject:</b> Analysis of wood trade flow models from the perspective of notions of place, space, and scale.<br><br>
+  <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).<br><br>
+  <b>Production:</b> Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document<br><br>
   
 </details>
 </p>
@@ -151,8 +151,8 @@ Past experience
     <strong>Research assistant</strong><br>
     UR Forêts et Sociétés, CIRAD, Kuala Lumpur, Malaisie | sept. 2017-fév. 2018
   </summary><br>
-  <b>Subject:</b> Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.<br>
-  <b>Supervision:</b> Jean-Marc Roda (CIRAD).<br>
+  <b>Subject:</b> Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.<br><br>
+  <b>Supervision:</b> Jean-Marc Roda (CIRAD).<br><br>
   
 </details>
 </p>
@@ -164,27 +164,27 @@ Past experience
     <strong>Assistant engineer</strong><br>
     Wood Department, Nord-Alsace Branch, Office National des Forêts, Ingwiller, France | juin 2017-août 2017
   </summary><br>
-  <b>Subject:</b> Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.<br>
-  <b>Supervision:</b> Julien Prinet (National Forest Office of France).<br>
+  <b>Subject:</b> Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.<br><br>
+  <b>Supervision:</b> Julien Prinet (National Forest Office of France).<br><br>
   
 </details>
 </p>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
 Collective Responsibilities
 ======
