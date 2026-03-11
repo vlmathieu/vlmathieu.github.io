@@ -7,6 +7,7 @@ excerpt: 'This thesis assesses the capacity of wood trade flow models to support
 date: 2023-12-19
 available: 'Hal'
 paperurl: 'https://hal.univ-lorraine.fr/tel-04594758v1'
+bibtexurl: 'https://vlmathieu.github.io/files/2023-12-19-mathieu-thesis.bib'
 citation: 'Mathieu, V. (2023). <i>Wood, Cities, and Trade: An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade</i> (Doctoral dissertation, Universit&eacute; de Lorraine).'
 ---
 
