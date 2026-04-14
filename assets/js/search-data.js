@@ -521,6 +521,20 @@ ninja.data = [{
           window.open("mailto:%76%61%6C%65%6E%74%69%6E.%6D%61%74%68%69%65%75@%61%67%72%6F%70%61%72%69%73%74%65%63%68.%66%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/vlmathieu", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-0696-6979", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
