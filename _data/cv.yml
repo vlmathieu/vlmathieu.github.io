@@ -1,10 +1,11 @@
 cv:
   name: Valentin Mathieu
-  headline: Research Engineer
+  label: Research Engineer
   email: valentin.mathieu@agroparistech.fr
-  website: https://vlmathieu.github.io/cv/
-  location: 14 rue Girardet, Nancy, France
-  # image: ""
+  location: Nancy, France
+  image: ""
+  summary: A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
+
 
   social_networks:
     - network: ORCID
@@ -16,17 +17,14 @@ cv:
     # - network: Bluesky
     #   username: vmathieu
 
-  # address:
-  #   street: 14 rue Girardet
-  #   city: Nancy
-  #   region:
-  #   postalCode: 54000
-  #   countryCode: France
+  address:
+    street: 14 rue Girardet
+    city: Nancy
+    region:
+    postalCode: 54000
+    countryCode: France
 
   sections:
-    summary: 
-      - A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
-
     Education:
       - institution: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, **INRAE**, BETA
         location: Nancy, France
@@ -117,7 +115,8 @@ cv:
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, **INRAE**, BETA
         position: Master Thesis
         location: Nancy, France
-        date: 2019
+        start_date: 2019-03
+        end_date: 2019-08
         summary: Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
         highlights:
           - "Supervision: Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison)."
@@ -135,7 +134,8 @@ cv:
       - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
         position: Assistant Engineer
         location: Ingwiller, France
-        date: 2017
+        start_date: 2017-06
+        end_date: 2017-08
         summary: Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
         highlights:
           - "Supervision: Julien Prinet (National Forest Office of France)."
@@ -196,14 +196,14 @@ cv:
         summary: Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles.
         
     Skills:
-      - label: Coding and software
-        # level: advanced
-        # icon: fa-solid fa-hashtag
-        details: Python, R, [Snakemake](https://snakemake.readthedocs.io/en/stable/), [GRASS GIS](https://grass.osgeo.org), [Quarto](https://quarto.org), Markdown, Git.
-      - label: Multimedia graphics
-        # level: advanced
-        # icon: fa-solid fa-hashtag
-        details: Adobe Photoshop, [Affinity](https://www.affinity.studio).
+      - name: Coding and software
+        level: advanced
+        icon: fa-solid fa-hashtag
+        keywords: Python, R, [Snakemake](https://snakemake.readthedocs.io/en/stable/), [GRASS GIS](https://grass.osgeo.org), [Quarto](https://quarto.org), Markdown, Git.
+      - name: Multimedia graphics
+        level: advanced
+        icon: fa-solid fa-hashtag
+        keywords: Adobe Photoshop, [Affinity](https://www.affinity.studio).
   
     Languages:
       - name: French
