@@ -182,11 +182,11 @@ cv:
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
         summary: This thesis assesses the capacity of wood trade flow models to support sustainable resource management by examining their theoretical foundations, factor coverage, and data quality, while proposing new approaches that integrate urban dynamics, improve trade data reliability, and enhance the modeling of the global wood economy.
 
-      - title: Panorama des recherches sur la for{\^e}t et le bois du d{\'e}partement EcoSocio INRAE
+      - title: Panorama des recherches sur la forêt et le bois du département EcoSocio INRAE
         authors:
           - Philippe Delacote
           - Valentin Mathieu
-          - Claire Montagn{\'e}-Huck
+          - Claire Montagné-Huck
         publisher: INRAE Sciences Sociales
         releaseDate: 2023-06-26
         url: https://doi.org/10.22004/ag.econ.336034
@@ -196,11 +196,11 @@ cv:
       - name: Coding and software
         level: advanced
         icon: fa-solid fa-hashtag
-        keywords: "Python, R, <a href='https://snakemake.readthedocs.io/en/stable/'>Snakemake</a>, GRASS GIS, Quarto, Markdown, Git."
+        keywords: "Python, R, <a href='https://snakemake.readthedocs.io/en/stable/'>Snakemake</a>, <a href='https://grass.osgeo.org'>GRASS GIS</a>, <a href='https://quarto.org'>Quarto</a>, Markdown, Git."
       - name: Multimedia graphics
         level: advanced
         icon: fa-solid fa-hashtag
-        keywords: "Suite Affinity, Adobe Photoshop."
+        keywords: "<a href='https://www.affinity.studio/fr_fr'>Affinity</a>, Adobe Photoshop."
   
     Languages:
       - name: French
