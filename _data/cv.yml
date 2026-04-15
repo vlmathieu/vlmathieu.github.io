@@ -86,6 +86,18 @@ cv:
           - <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).
 
     Experience:
+      - company: Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR Silva
+        position: Research Engineer
+        location: Nancy, France
+        start_date: 2024
+        end_date:
+        summary: Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
+        highlights:
+          - <b>Disciplines:</b> Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics.
+          - <b>Methods:</b> Applied mathematics and data science (Graph theory, Machine Learning), Geographic Information Systems, Bilateral trade / forest data (FAOSTAT, UN Comtrade).
+          - <b>Research themes:</b> Forest-wood sector, Wood products, Trade, Forest-based bioeconomy, Forest Policy, Urbanisation.
+          - <b>Teaching responsabilities:</b> In charge of the Forest Information and Resource Strategies (FIRS) major at AgroParisTech (M.Sc.2).
+
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
         position: Research Engineer
         location: Nancy, France
@@ -100,7 +112,8 @@ cv:
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
         position: Master Thesis
         location: Nancy, France
-        start_date: 2019
+        start_date: mar. 2019
+        end_date: aug. 2019
         summary: Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
         highlights:
           - <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
@@ -118,7 +131,8 @@ cv:
       - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
         position: Assistant Engineer
         location: Ingwiller, France
-        start_date: 2017
+        start_date: jun. 2017
+        end_date: aug. 2017
         summary: Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
         highlights:
           - <b>Supervision:</b> Julien Prinet (National Forest Office of France).
@@ -179,11 +193,15 @@ cv:
         summary: Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles.
         
     Skills:
-      - name: Physics
-        level: Master
+      - name: Coding and software
+        level: advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        keywords: "Python, R, <a href='https://snakemake.readthedocs.io/en/stable/'>Snakemake</a>, GRASS GIS, Quarto, Markdown, Git."
+      - name: Multimedia graphics
+        level: advanced
+        icon: fa-solid fa-hashtag
+        keywords: "Suite Affinity, Adobe Photoshop."
+  
     Languages:
       - name: French
         summary: "Native speaker"
