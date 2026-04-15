@@ -200,7 +200,7 @@ cv:
         keywords: Python, R, <a href="https://snakemake.readthedocs.io/en/stable/">Snakemake</a>, <a href="https://grass.osgeo.org">GRASS GIS</a>, <a href="https://quarto.org">Quarto</a>, Markdown, Git.
       - name: Multimedia graphics
         level: advanced
-        icon: fa-solid fa-file-eps
+        icon: fa-solid fa-palette
         keywords: <a href="https://www.affinity.studio">Affinity</a>, Adobe Photoshop.
   
     Languages:
@@ -212,10 +212,10 @@ cv:
 
     Interests:
       - name: Data Science
-        icon: fa-solid fa-chart-network
+        icon: fa-solid fa-file-csv
         keywords: "Machine learning, Deep learning, Bayesian modeling, Network analysis"
       - name: Computational Reproducibility
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-laptop-code
         keywords: "Version control, Environment control, Workflow, Computational document"
 
     # Certificates:
