@@ -1,10 +1,10 @@
 cv:
   name: Valentin Mathieu
-  label: Research Engineer
+  label: Scientist
   email: valentin.mathieu@agroparistech.fr
   location: Nancy, France
   image: ""
-  summary: A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
+  summary: "" # A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
 
   social_networks:
     - network: ORCID
@@ -13,8 +13,8 @@ cv:
       username: ZKcxVOIAAAAJ
     - network: GitHub
       username: vlmathieu
-    - network: Bluesky
-      username: vmathieu
+    # - network: Bluesky
+    #   username: vmathieu
 
   address:
     street: 14 rue Girardet
@@ -92,7 +92,7 @@ cv:
         position: Research Engineer
         location: Nancy, France
         start_date: 2024
-        end_date:
+        end_date: present
         summary: Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
         highlights:
           - <b>Disciplines:</b> Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics.
