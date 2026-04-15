@@ -100,8 +100,8 @@ cv:
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
         position: Master Thesis
         location: Nancy, France
-        start_date: mar. 2019
-        end_date: aug. 2019
+        start_date: 2019
+        end_date: 2019
         summary: Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
         highlights:
           - <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
@@ -119,8 +119,8 @@ cv:
       - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
         position: Assistant Engineer
         location: Ingwiller, France
-        start_date: jun. 2017
-        end_date: aug. 2017
+        start_date: 2017
+        end_date: 2017
         summary: Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
         highlights:
           - <b>Supervision:</b> Julien Prinet (National Forest Office of France).
@@ -154,27 +154,27 @@ cv:
 
     Publications:
       - title: A meta-analysis on wood trade flow modeling concepts
-        authors:
-          - Valentin Mathieu
-          - Jean-Marc Roda
+        # authors:
+        #   - Valentin Mathieu
+        #   - Jean-Marc Roda
         publisher: Forest Policy and Economics
         releaseDate: 2023
         url: https://doi.org/10.1016/j.forpol.2023.102930
         summary: Based on a meta-analysis of 499 publications, this paper provides the first comprehensive overview of wood trade flow models, showing that they are predominantly used for policy analysis, rely on a narrow set of factors, and largely overlook emerging drivers such as urban dynamics.
         
       - title: Wood, Cities, and Trade: An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade
-        authors:
-          - Valentin Mathieu
+        # authors:
+        #   - Valentin Mathieu
         publisher: Université de Lorraine
         releaseDate: 2023
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
         summary: This thesis assesses the capacity of wood trade flow models to support sustainable resource management by examining their theoretical foundations, factor coverage, and data quality, while proposing new approaches that integrate urban dynamics, improve trade data reliability, and enhance the modeling of the global wood economy.
 
       - title: Panorama des recherches sur la for{\^e}t et le bois du d{\'e}partement EcoSocio INRAE
-        authors:
-          - Philippe Delacote
-          - Valentin Mathieu
-          - Claire Montagn{\'e}-Huck
+        # authors:
+        #   - Philippe Delacote
+        #   - Valentin Mathieu
+        #   - Claire Montagn{\'e}-Huck
         publisher: INRAE Sciences Sociales
         releaseDate: 2023
         url: https://doi.org/10.22004/ag.econ.336034
