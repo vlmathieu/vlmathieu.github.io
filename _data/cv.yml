@@ -89,51 +89,52 @@ cv:
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
         position: Research Engineer
         location: Nancy, France
-        start_date: oct. 2019
-        end_date: sept. 2020
+        start_date: 2019
+        end_date: 2020
         summary: Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
         highlights:
           - <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).
           - <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
-          - <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project - Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
+          - <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project - Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). <a href="https://hal.science/hal-04920115">https://hal.science/hal-04920115</a>
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
+        position: Master Thesis
+        location: Nancy, France
+        start_date: 2019
+        end_date:
+        summary: Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
         highlights:
-          - Description 1.
-          - Description 2.
+          - <b>Supervision:</b> Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
+          - <b>Production:</b> Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). <a href="https://hal.science/hal-04920111">https://hal.science/hal-04920111</a>
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: UR Forêts et Sociétés, CIRAD
+        position: Research Assistant
+        location: Kuala Lumpur, Malaisie
+        start_date: 2017
+        end_date: 2018
+        summary: Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - <b>Supervision:</b> Jean-Marc Roda (CIRAD).
+  
+      - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
+        position: Assistant Engineer
+        location: Ingwiller, France
+        start_date: 2017
+        end_date:
+        summary: Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
+        highlights:
+          - <b>Supervision:</b> Julien Prinet (National Forest Office of France).
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     # Awards:
       # - title: Nobel Prize in Physics
