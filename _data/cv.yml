@@ -86,15 +86,16 @@ cv:
           - <b>Major:</b> Biology, Chemistry, Physics, Earth Sciences (BCPST).
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
+        position: Research Engineer
+        location: Nancy, France
+        start_date: oct. 2019
+        end_date: sept. 2020
+        summary: Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.
         highlights:
-          - Relativity
-          - Description 2.
+          - <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).
+          - <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
+          - <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project - Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
 
       - company: California Institute of Technology
         position: Visiting Professor
@@ -134,21 +135,21 @@ cv:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    # Awards:
+      # - title: Nobel Prize in Physics
+      #   authors:
+      #     - "Royal Swedish Academy of Sciences"
+      #   date: 1921-11-01
+      #   awarder: Royal Swedish Academy of Sciences
+      #   url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+      #   summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      # - title: Max Planck Medal
+      #   authors:
+      #     - "German Physical Society"
+      #   date: 2029
+      #   awarder: German Physical Society
+      #   summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -182,7 +183,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
 
       - name: English
