@@ -4,7 +4,7 @@ cv:
   email: valentin.mathieu@agroparistech.fr
   location: Nancy, France
   image: ""
-  summary: Research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
+  summary: A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
 
   social_networks:
     - network: X
@@ -31,10 +31,10 @@ cv:
         start_date: 2020
         end_date: 2023
         score: ""
-        courses: <b>Thesis:</b> Wood, Cities, and Trade - An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.
+        courses: "Thesis: Wood, Cities, and Trade - An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.""
         highlights:
-          - <b>Supervisors:</b> Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).
-          - <b>Committee:</b> Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.
+          - "Supervisors: Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).""
+          - "Committee: Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier.""
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
