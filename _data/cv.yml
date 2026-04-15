@@ -108,7 +108,7 @@ cv:
         highlights:
           - <b>Supervision:</b> Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).
           - <b>Related project:</b> Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
-          - <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project - Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). <a href"https://hal.science/hal-04920115">https://hal.science/hal-04920115</a>
+          - <b>Production:</b> Mathieu, V. (2020). Hy-C-Green project - Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). <a href="https://hal.science/hal-04920115">https://hal.science/hal-04920115</a>
 
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, <ins>INRAE</ins>, BETA
         position: Master Thesis
@@ -196,11 +196,11 @@ cv:
     Skills:
       - name: Coding and software
         level: advanced
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-code
         keywords: Python, R, <a href="https://snakemake.readthedocs.io/en/stable/">Snakemake</a>, <a href="https://grass.osgeo.org">GRASS GIS</a>, <a href="https://quarto.org">Quarto</a>, Markdown, Git.
       - name: Multimedia graphics
         level: advanced
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-file-eps
         keywords: <a href="https://www.affinity.studio">Affinity</a>, Adobe Photoshop.
   
     Languages:
@@ -212,10 +212,10 @@ cv:
 
     Interests:
       - name: Data Science
-        icon: fa-solid fa-tag
+        icon: fa-solid fa-chart-network
         keywords: "Machine learning, Deep learning, Bayesian modeling, Network analysis"
       - name: Computational Reproducibility
-        icon: fa-solid fa-tag
+        icon: fa-solid fa-laptop
         keywords: "Version control, Environment control, Workflow, Computational document"
 
     # Certificates:
