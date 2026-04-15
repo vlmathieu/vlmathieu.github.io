@@ -154,29 +154,29 @@ cv:
 
     Publications:
       - title: A meta-analysis on wood trade flow modeling concepts
-        # authors:
-        #   - Valentin Mathieu
-        #   - Jean-Marc Roda
+        authors:
+          - Valentin Mathieu
+          - Jean-Marc Roda
         publisher: Forest Policy and Economics
-        releaseDate: 2023
+        releaseDate: 2023-04-01
         url: https://doi.org/10.1016/j.forpol.2023.102930
         summary: Based on a meta-analysis of 499 publications, this paper provides the first comprehensive overview of wood trade flow models, showing that they are predominantly used for policy analysis, rely on a narrow set of factors, and largely overlook emerging drivers such as urban dynamics.
         
       - title: Wood, Cities, and Trade: An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade
-        # authors:
-        #   - Valentin Mathieu
+        authors:
+          - Valentin Mathieu
         publisher: Université de Lorraine
-        releaseDate: 2023
+        releaseDate: 2023-12-19
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
         summary: This thesis assesses the capacity of wood trade flow models to support sustainable resource management by examining their theoretical foundations, factor coverage, and data quality, while proposing new approaches that integrate urban dynamics, improve trade data reliability, and enhance the modeling of the global wood economy.
 
       - title: Panorama des recherches sur la for{\^e}t et le bois du d{\'e}partement EcoSocio INRAE
-        # authors:
-        #   - Philippe Delacote
-        #   - Valentin Mathieu
-        #   - Claire Montagn{\'e}-Huck
+        authors:
+          - Philippe Delacote
+          - Valentin Mathieu
+          - Claire Montagn{\'e}-Huck
         publisher: INRAE Sciences Sociales
-        releaseDate: 2023
+        releaseDate: 2023-06-26
         url: https://doi.org/10.22004/ag.econ.336034
         summary: Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles.
         
