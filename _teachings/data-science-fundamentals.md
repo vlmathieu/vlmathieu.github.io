@@ -1,18 +1,18 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+title: UE Filière Forêt-Bois et Commercialisation des Produits Forestiers
+description: Cette unité d'enseignement sensibilise les étudiants à différentes dimensions du secteur forêt-bois. Elle aborde à la fois des aspects opérationnels (commercialisation, cartographie des acteurs, visites d'industries) et stratégiques (commerce international).
+instructor: Valentin Mathieu
+year: 2025
+term: Fall
+location:
+time: 
+course_id: 2AD1N-FILIÈRE-BOIS-2025-2026
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
+    date: 18 Sept., 13:30-16:45
+    topic: Qualité et classement des bois | Exploitation, mobilisation forestière
+    description: Maxence Arnould (AgroParisTech)
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
@@ -20,57 +20,53 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
+    date: 12 Nov., 13:30-16:45
+    topic: Commerce international du bois - Introduction
+    description: Valentin Mathieu (AgroParisTech)
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+      - name: Slides
+        url: /assets/pdf/251112_International_Timber_Trade_Intro.pdf
 
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
+    date: 18 Nov., 08:30-11:30
+    topic: Conférence - Gestion durable des forêts à l'international
+    description: Maya Leroy (AgroParisTech)
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+
+  - week: 3
+    date: 21 Nov., 08:30-11:45
+    topic: Commercialisation des bois
+    description: Olivier Sévéléder (ONF), Antoine Daclin (Forêt d'Ici)
+    materials:
+
+  - week: 3
+    date: 21 Nov., 13:30-16:45
+    topic: Acteurs de la filière forêt-bois
+    description: Marieke Blondet (AgroParisTech)
+    materials:
 
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
+    date: 05 Jan., 13:00-14:30
+    topic: Commerce international du bois - Creuser les données de commerce
+    description: Valentin Mathieu (AgroParisTech)
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+      - name: Slides
+        url: /assets/pdf/260105_International_Timber_Trade_Data.pdf
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
+    date: 14 Jan., 06:30-19:00
+    topic: Visites de scieries
+    description: Siat Braun (Urmatt), Chêne de l'Est (Hambach)
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
 
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+  - week: 5
+    date: 16 Jan., 13:30-15:00
+    topic: Commerce international du bois - Jeu de commerce
+    description: Valentin Mathieu (AgroParisTech)
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
 ---
 
-## Course Overview
+<!-- ## Course Overview
 
 This course provides a comprehensive introduction to data science principles and practices. Students will:
 
@@ -94,4 +90,4 @@ This course provides a comprehensive introduction to data science principles and
 
 - Assignments: 50%
 - Project: 40%
-- Participation: 10%
+- Participation: 10% -->
