@@ -7,7 +7,7 @@ subtitle: Junior Researcher in Forest Economics at <a href='https://silva.nancy.
 profile:
   align: right
   image: MATHIEU_Valentin_2026_cropped.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <center><p>14 rue Girardet</p></center>
     <center><p>54000 Nancy, France</p></center>
