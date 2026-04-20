@@ -6,7 +6,7 @@ subtitle: Junior Researcher in Forest Economics at <a href='https://silva.nancy.
 
 profile:
   align: right
-  image: soutenance.png
+  image: MATHIEU_Valentin_2026_cropped.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <center><p>14 rue Girardet</p></center>
