@@ -1,33 +1,46 @@
-<!-- ---
+---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: First promotion of the FIRS major
+date: 2016-09-01 09:00:00-0400
 inline: false
 related_posts: false
---- -->
+---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+On September 1, the <a href="https://www.agroparistech.fr/formations-ingenieur/3a-dominante-forest-information-and-resource-strategies">Forest Information and Resource Strategies</a> (FIRS) major at AgroParisTech (M.Sc.2) will be open to students for the first time, in collaboration with <a href="https://geodata-paris.fr/fr">Géodata Paris</a>.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+# Rationale
 
-#### Hipster list
+## 1. Keyline
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Integrating forest information systems and forest policies to secure resources from forest systems in a transitioning world
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+## 2. Strategic goals
+
+Forests have been securing for long, and are expected to continue to secure, the decisive delivery of energy and material wood to human communities. They also play a critical role in supporting biodiversity and providing fundamental and increasingly acknowledged ecosystem services on which human populations rely. For a few centuries, they have however been subjected to a highly non-stationary dynamics, driven by forest transitions and deforestation dynamics, and more recently to the adverse effect of climate change and extended sanitary crises, making their ability to deliver these ecosystem services uncertain.
+
+In this context, new forest experts and managers must now be trained accordingly, and face critical and interconnected challenges:
+
+***Developing a keen eye for the forests of the future***
+
+Handling the need to better inform forest status and dynamics and their critical facets, by being capable of associating statistical observation and information technologies. In particular, a growing set of remote sensing products provides information of unprecedented resolution and diversity on forests, and by extension, the bases of digital spatial technologies. One purpose here is to be able to elaborate new regularly updated and spatialized information on forests supporting strategic approaches of forest management and governance, by making profit of the digital transition. A second purpose is the development of forecasting facilities at strategic levels, based on forest modelling technologies.
+
+***Deciphering the complexity and uncertainties of the forest-wood sector***
+
+Handling the need to appropriately address and anticipate the new critical challenges posed onto forest resources. This supposes to acknowledge the new sharp constraints dictated by the environmental and socio-political context. The main objective is to develop a comprehensive appraisal of these challenges and identify the key critical aspects of this transition. It includes fostering forest adaptation, increasing resilience to risks, favouring forest renewal, preserving forest biodiversity, and embracing increasingly contrasted modes of management such as intensive forestry or non-management for wilderness development. It also requires pursuing the challenge of managing productive and valuable forests, and their role in the new green economy perspective, in terms of contribution to the energy mix, to the design of new materials with high added value through the wood chain, or by storing carbon in wood products and contributing to climate neutrality, while at the same time ensuring social services praised by urban populations.
+
+***Designing forest policies for the transition of the forests and the forest-wood sector***
+
+Handling the need to elaborate relevant forest policies, connected to both the societal demand, the changing conditions of forest status and development, and the nature and changes in demand for wood products at multiple scales, driven by human demography and urbanization, and requiring a growing awareness of international wood markets. Forest governance itself has strongly evolved, with a need to account for local stakeholder preoccupations, for the growing intervention of the European Union, and incentives dictated by global priorities such as the 6th extinction crisis, deforestation, illegal exploitation and trade, or certification. In addition, ecological crises and geopolitical conflicts have become more frequent, making long-term coordination between wood production and consumption more complex, and leading to increasing tensions over global forest resources.
+
+## 3. Training strategy
+
+The present curriculum is structured according to these three priorities, and intends to train new professionals that may develop their activities in each of the following fields: (i) elaboration of forest information systems and data production, (ii) information-based analysis of forests and forest resources including forest reporting, (iii) elaboration of environmental and forest policies, and economic strategies able to embrace current forest challenges and trends. Being wide-embracing, the curriculum also aims to train general forest experts, able to better connect these different priorities and formulate initiatives with greater relevance and consistency, and to easily evolve across these areas of intervention along their careers.
+
+Since uncertainty will remain a salient feature of forests’ futures, the curriculum also gives large room to systematic project-based training (a minimum one-third of the major, in each of the training fields), and to the appraisal of real forest case-studies. In view of favouring cultural mix among students, options in project-training will also permit the choice of either technologic or more conceptual and narrative options.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Learn more about FIRS in <a href"https://emedia.paris-saclay.fr/videos/presentation-firs_4zr04sgx0i/">this video</a>.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
