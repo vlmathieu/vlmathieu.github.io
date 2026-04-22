@@ -1,13 +1,13 @@
-<!-- ---
+---
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of projects I am involved in.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, teaching]
 horizontal: false
---- -->
+---
 
 <!-- pages/projects.md -->
 <div class="projects">
