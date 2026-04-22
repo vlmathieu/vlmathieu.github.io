@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First promotion of the FIRS major
-date: 2016-09-01 09:00:00-0400
+date: 2026-09-01 09:00:00-0400
 inline: false
 related_posts: false
 ---
@@ -42,5 +42,5 @@ Since uncertainty will remain a salient feature of forests’ futures, the curri
 
 ---
 
-Learn more about FIRS in <a href"https://emedia.paris-saclay.fr/videos/presentation-firs_4zr04sgx0i/">this video</a>.
+Learn more about FIRS in <a href="https://emedia.paris-saclay.fr/videos/presentation-firs_4zr04sgx0i/">this video</a>.
 
