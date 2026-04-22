@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "In progress GitHub repositories on a journey to open science.",
@@ -465,7 +472,12 @@ ninja.data = [{
           title: 'UE Filière Forêt-Bois et Commercialisation des Produits Forestiers',
           description: "Cette unité d&#39;enseignement sensibilise les étudiants à différentes dimensions du secteur forêt-bois. Elle aborde à la fois des aspects opérationnels (commercialisation, cartographie des acteurs, visites d&#39;industries) et stratégiques (commerce international).",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/2AD1N-FILI%C3%88RE-BOIS-2025-2026/";
+              window.location.href = "/teachings/data-science-fundamentals/";
+            },},{id: "teachings-introduction-to-machine-learning",
+          title: 'Introduction to Machine Learning',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
