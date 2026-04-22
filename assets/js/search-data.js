@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-first-promotion-of-the-firs-major",
+          title: 'First promotion of the FIRS major',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
           title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
           description: "",
