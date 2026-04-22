@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First promotion of the FIRS major
-date: 2026-04-01 15:59:00-0400
+date: 2025-09-01 15:59:00-0400
 inline: false
 related_posts: false
 ---
