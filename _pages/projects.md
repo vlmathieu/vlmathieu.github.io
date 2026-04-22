@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects I am involved in.
 nav: true
 nav_order: 3
-display_categories: [work, teaching]
+display_categories: [research, teaching]
 horizontal: false
 ---
 
