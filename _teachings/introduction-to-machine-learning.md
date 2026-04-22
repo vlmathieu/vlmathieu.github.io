@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: course
 title: Introduction to Machine Learning
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
@@ -83,7 +83,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
       - name: Coding Lab
         url: https://github.com/
----
+--- -->
 
 ## Course Overview
 
