@@ -415,15 +415,15 @@ ninja.data = [{
             },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
           title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
           description: "",
-          section: "News",},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
-          title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
-          description: "",
           section: "News",},{id: "news-first-promotion-of-the-firs-major",
           title: 'First promotion of the FIRS major',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
+          title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
