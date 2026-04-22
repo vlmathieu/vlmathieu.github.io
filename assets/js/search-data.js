@@ -423,16 +423,16 @@ ninja.data = [{
           section: "News",},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
           title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-forest-information-and-resource-strategies",
+          section: "News",},{id: "projects-forest-information-and-resource-strategies",
           title: 'Forest Information and Resource Strategies',
           description: "AgroParisTech, Géodata Paris",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/firs/";
+            },},{id: "projects-scable-dev-ademe",
+          title: 'Scable-dev (ADEME)',
+          description: "ONF, FCBA, UMR BETA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/scable-dev/";
             },},{id: "teachings-ue-filière-forêt-bois-et-commercialisation-des-produits-forestiers",
           title: 'UE Filière Forêt-Bois et Commercialisation des Produits Forestiers',
           description: "Cette unité d&#39;enseignement sensibilise les étudiants à différentes dimensions du secteur forêt-bois. Elle aborde à la fois des aspects opérationnels (commercialisation, cartographie des acteurs, visites d&#39;industries) et stratégiques (commerce international).",
