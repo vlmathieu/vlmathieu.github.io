@@ -412,15 +412,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
-          title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
-          description: "",
-          section: "News",},{id: "news-first-promotion-of-the-firs-major",
+            },},{id: "news-first-promotion-of-the-firs-major",
           title: 'First promotion of the FIRS major',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
+            },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
+          title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
+          description: "",
+          section: "News",},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
           title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
           description: "",
           section: "News",},{id: "projects-project-1",
@@ -472,12 +472,7 @@ ninja.data = [{
           title: 'UE Filière Forêt-Bois et Commercialisation des Produits Forestiers',
           description: "Cette unité d&#39;enseignement sensibilise les étudiants à différentes dimensions du secteur forêt-bois. Elle aborde à la fois des aspects opérationnels (commercialisation, cartographie des acteurs, visites d&#39;industries) et stratégiques (commerce international).",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/2AD1N-FILI%C3%88RE-BOIS-2025-2026/";
             },},{
         id: 'social-email',
         title: 'email',
