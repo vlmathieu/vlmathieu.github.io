@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: In progress GitHub repositories on a journey to open science.
 nav: true
 nav_order: 4
