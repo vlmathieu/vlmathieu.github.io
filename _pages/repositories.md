@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: In progress GitHub repositories on a journey to open science.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 {% if site.data.repositories.github_users %}

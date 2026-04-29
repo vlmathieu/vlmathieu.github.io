@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Junior Researcher in Forest Economics at <a href='https://silva.nancy.hub.inrae.fr'>UMR Silva</a>, <a href='https://www.agroparistech.fr'>AgroParisTech</a> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
