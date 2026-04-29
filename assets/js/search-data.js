@@ -412,18 +412,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-first-promotion-of-the-firs-major",
-          title: 'First promotion of the FIRS major',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
           title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
           description: "",
           section: "News",},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-1st-revision",
           title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
           description: "",
-          section: "News",},{id: "projects-forest-information-and-resource-strategies",
+          section: "News",},{id: "news-first-promotion-of-the-firs-major",
+          title: 'First promotion of the FIRS major',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-forest-information-and-resource-strategies",
           title: 'Forest Information and Resource Strategies',
           description: "AgroParisTech, Géodata Paris",
           section: "Projects",handler: () => {
