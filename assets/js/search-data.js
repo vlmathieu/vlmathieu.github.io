@@ -412,11 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-under-review-in-forest-policy-and-economics",
-          title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
-          description: "",
-          section: "News",},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-2nd-revision",
+            },},{id: "news-indiscriminate-barriers-the-trade-effects-of-due-diligence-policies-in-global-timber-markets-under-review-in-ecological-economics-2nd-revision",
           title: '“Indiscriminate Barriers: The Trade Effects of Due Diligence Policies in Global Timber Markets”...',
+          description: "",
+          section: "News",},{id: "news-the-rise-and-fall-of-china-s-demand-for-imported-timber-a-network-analysis-of-the-international-roundwood-trade-accepted-for-publication-in-forest-policy-and-economics",
+          title: '“The Rise (and Fall?) of China’s Demand for Imported Timber: A Network Analysis...',
           description: "",
           section: "News",},{id: "news-first-promotion-of-the-firs-major",
           title: 'First promotion of the FIRS major',
