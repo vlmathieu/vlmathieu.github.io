@@ -6,7 +6,7 @@ instructor: Valentin Mathieu
 year: 2025
 term: Fall
 location:
-time: 
+time:
 course_id: 2AD1N-FILIÈRE-BOIS-2025-2026
 schedule:
   - week: 1

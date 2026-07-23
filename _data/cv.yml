@@ -6,7 +6,6 @@ cv:
   image: ""
   summary: A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
 
-
   social_networks:
     - network: ORCID
       username: 0000-0002-0696-6979
@@ -44,7 +43,7 @@ cv:
         end_date: 2019
         highlights:
           - <b>Major:</b> Forest Resources and Forest-based Industries (RFF).
-      
+
       - institution: Université de Lorraine
         location: Nancy, France
         area: Economics
@@ -76,7 +75,7 @@ cv:
         studyType: International Experience Certificate
         start_date: 2017
         end_date: 2018
-  
+
       - institution: Lycée Privé Sainte Geneviève
         location: Versailles, France
         area: Life Sciences
@@ -128,7 +127,7 @@ cv:
         summary: Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.
         highlights:
           - <b>Supervision:</b> Jean-Marc Roda (CIRAD).
-  
+
       - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
         position: Assistant Engineer
         location: Ingwiller, France
@@ -150,20 +149,20 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     # Awards:
-      # - title: Nobel Prize in Physics
-      #   authors:
-      #     - "Royal Swedish Academy of Sciences"
-      #   date: 1921-11-01
-      #   awarder: Royal Swedish Academy of Sciences
-      #   url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-      #   summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    # - title: Nobel Prize in Physics
+    #   authors:
+    #     - "Royal Swedish Academy of Sciences"
+    #   date: 1921-11-01
+    #   awarder: Royal Swedish Academy of Sciences
+    #   url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #   summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      # - title: Max Planck Medal
-      #   authors:
-      #     - "German Physical Society"
-      #   date: 2029
-      #   awarder: German Physical Society
-      #   summary: Awarded for outstanding scientific achievement
+    # - title: Max Planck Medal
+    #   authors:
+    #     - "German Physical Society"
+    #   date: 2029
+    #   awarder: German Physical Society
+    #   summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: A meta-analysis on wood trade flow modeling concepts
@@ -174,7 +173,7 @@ cv:
         releaseDate: 2023-04-01
         url: https://doi.org/10.1016/j.forpol.2023.102930
         summary: Based on a meta-analysis of 499 publications, this paper provides the first comprehensive overview of wood trade flow models, showing that they are predominantly used for policy analysis, rely on a narrow set of factors, and largely overlook emerging drivers such as urban dynamics.
-        
+
       - title: Wood, Cities, and Trade - An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade
         authors:
           - Valentin Mathieu
@@ -192,7 +191,7 @@ cv:
         releaseDate: 2023-06-26
         url: https://doi.org/10.22004/ag.econ.336034
         summary: Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles.
-        
+
     Skills:
       - name: Coding and software
         level: advanced
@@ -202,7 +201,7 @@ cv:
         level: advanced
         icon: fa-solid fa-palette
         keywords: <a href="https://www.affinity.studio">Affinity</a>, Adobe Photoshop.
-  
+
     Languages:
       - name: French
         summary: "Native speaker"
@@ -240,7 +239,7 @@ cv:
         highlights:
           - Macroeconomic impact of the national expansion of cable yarding on the forest-wood sector.
           - Comparison of the costs and availability of wood between harvesting methods.
-          - Determinants of the costs and harvesting speed. 
+          - Determinants of the costs and harvesting speed.
         start_date: 2025
         end_date: 2027
       - name: Dominos
@@ -248,7 +247,7 @@ cv:
         highlights:
           - Attitudes and behaviors of the French people towards the use of wood for construction and energy.
           - Hierarchical cognitive modeling.
-          - Discrete choice experiment. 
+          - Discrete choice experiment.
         start_date: 2022
         end_date: 2027
 

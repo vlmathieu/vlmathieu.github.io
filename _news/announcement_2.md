@@ -24,15 +24,15 @@ Forests have been securing for long, and are expected to continue to secure, the
 
 In this context, new forest experts and managers must now be trained accordingly, and face critical and interconnected challenges:
 
-***Developing a keen eye for the forests of the future***
+_**Developing a keen eye for the forests of the future**_
 
 Handling the need to better inform forest status and dynamics and their critical facets, by being capable of associating statistical observation and information technologies. In particular, a growing set of remote sensing products provides information of unprecedented resolution and diversity on forests, and by extension, the bases of digital spatial technologies. One purpose here is to be able to elaborate new regularly updated and spatialized information on forests supporting strategic approaches of forest management and governance, by making profit of the digital transition. A second purpose is the development of forecasting facilities at strategic levels, based on forest modelling technologies.
 
-***Deciphering the complexity and uncertainties of the forest-wood sector***
+_**Deciphering the complexity and uncertainties of the forest-wood sector**_
 
 Handling the need to appropriately address and anticipate the new critical challenges posed onto forest resources. This supposes to acknowledge the new sharp constraints dictated by the environmental and socio-political context. The main objective is to develop a comprehensive appraisal of these challenges and identify the key critical aspects of this transition. It includes fostering forest adaptation, increasing resilience to risks, favouring forest renewal, preserving forest biodiversity, and embracing increasingly contrasted modes of management such as intensive forestry or non-management for wilderness development. It also requires pursuing the challenge of managing productive and valuable forests, and their role in the new green economy perspective, in terms of contribution to the energy mix, to the design of new materials with high added value through the wood chain, or by storing carbon in wood products and contributing to climate neutrality, while at the same time ensuring social services praised by urban populations.
 
-***Designing forest policies for the transition of the forests and the forest-wood sector***
+_**Designing forest policies for the transition of the forests and the forest-wood sector**_
 
 Handling the need to elaborate relevant forest policies, connected to both the societal demand, the changing conditions of forest status and development, and the nature and changes in demand for wood products at multiple scales, driven by human demography and urbanization, and requiring a growing awareness of international wood markets. Forest governance itself has strongly evolved, with a need to account for local stakeholder preoccupations, for the growing intervention of the European Union, and incentives dictated by global priorities such as the 6th extinction crisis, deforestation, illegal exploitation and trade, or certification. In addition, ecological crises and geopolitical conflicts have become more frequent, making long-term coordination between wood production and consumption more complex, and leading to increasing tensions over global forest resources.
 
