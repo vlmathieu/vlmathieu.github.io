@@ -1,10 +1,8 @@
 cv:
   name: Valentin Mathieu
-  label: Research Engineer
+  headline: Research Engineer
   email: valentin.mathieu@agroparistech.fr
   location: Nancy, France
-  image: ""
-  summary: A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
 
   social_networks:
     - network: ORCID
@@ -14,14 +12,10 @@ cv:
     - network: GitHub
       username: vlmathieu
 
-  address:
-    street: 14 rue Girardet
-    city: Nancy
-    region:
-    postalCode: 54000
-    countryCode: France
-
   sections:
+    Summary:
+      - A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.
+
     Education:
       - institution: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, **INRAE**, BETA
         location: Nancy, France
@@ -112,8 +106,8 @@ cv:
       - company: Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, **INRAE**, BETA
         position: Master Thesis
         location: Nancy, France
-        start_date: mar
-        end_date: aug 2019
+        start_date: 2019-03
+        end_date: 2019-08
         summary: Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
         highlights:
           - "**Supervision:** Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison)."
@@ -131,8 +125,8 @@ cv:
       - company: Wood Department, Nord-Alsace Branch, Office National des Forêts
         position: Assistant Engineer
         location: Ingwiller, France
-        start_date: jun
-        end_date: aug 2017
+        start_date: 2017-06
+        end_date: 2017-08
         summary: Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.
         highlights:
           - "**Supervision:** Julien Prinet (National Forest Office of France)."
