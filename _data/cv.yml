@@ -187,14 +187,10 @@ cv:
         summary: Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles.
 
     Skills:
-      - name: Coding and software
-        level: advanced
-        icon: fa-solid fa-code
-        keywords: "Python, R, [Snakemake](https://snakemake.readthedocs.io/en/stable/), [GRASS GIS](https://grass.osgeo.org), [Quarto](https://quarto.org), Markdown, Git, [Claude Code](https://code.claude.com/docs/en/overview)."
-      - name: Multimedia graphics
-        level: advanced
-        icon: fa-solid fa-palette
-        keywords: "[Affinity](https://www.affinity.studio), Adobe Photoshop."
+      - label: Coding and software
+        details: "Python, R, [Snakemake](https://snakemake.readthedocs.io/en/stable/), [GRASS GIS](https://grass.osgeo.org), [Quarto](https://quarto.org), Markdown, Git, [Claude Code](https://code.claude.com/docs/en/overview)."
+      - label: Multimedia graphics
+        details: "[Affinity](https://www.affinity.studio), Adobe Photoshop."
 
     Languages:
       - name: French
@@ -204,12 +200,10 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Data Science
-        icon: fa-solid fa-file-csv
-        keywords: "Machine learning, Deep learning, Bayesian modeling, Network analysis"
-      - name: Computational Reproducibility
-        icon: fa-solid fa-laptop-code
-        keywords: "Version control, Environment control, Workflow, Computational document"
+      - label: Data Science
+        details: "Machine learning, Deep learning, Bayesian modeling, Network analysis"
+      - label: Computational Reproducibility
+        details: "Version control, Environment control, Workflow, Computational document"
 
     # Certificates:
     #   - name: Machine Learning

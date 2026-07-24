@@ -4,14 +4,12 @@
     "label": "Research Engineer",
     "image": "",
     "email": "valentin.mathieu@agroparistech.fr",
-    "phone": "",
     "url": "https://vlmathieu.github.io/",
     "summary": "A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.",
     "location": {
       "address": "14 rue Girardet",
       "postalCode": "54000",
       "city": "Nancy",
-      "region": "",
       "countryCode": "France"
     },
     "profiles": [
