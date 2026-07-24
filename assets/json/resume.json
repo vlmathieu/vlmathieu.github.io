@@ -1,221 +1,245 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Valentin Mathieu",
+    "label": "Research Engineer",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "valentin.mathieu@agroparistech.fr",
+    "phone": "",
+    "url": "https://vlmathieu.github.io/",
+    "summary": "A French research engineer in forest economics working at the intersection of international trade, economic geography, and data science to analyse the structure and dynamics of the forest-wood sector.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "14 rue Girardet",
+      "postalCode": "54000",
+      "city": "Nancy",
+      "region": "",
+      "countryCode": "France"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "0000-0002-0696-6979",
+        "url": "https://orcid.org/0000-0002-0696-6979"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "ZKcxVOIAAAAJ",
+        "url": "https://scholar.google.com/citations?user=ZKcxVOIAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "vlmathieu",
+        "url": "https://github.com/vlmathieu"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Université de Lorraine, AgroParisTech, INRAE, UMR Silva",
+      "position": "Research Engineer",
+      "location": "Nancy, France",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.",
+      "highlights": [
+        "**Disciplines:** Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics.",
+        "**Methods:** Applied mathematics and data science (Graph theory, Machine Learning), Geographic Information Systems, Bilateral trade / forest data (FAOSTAT, UN Comtrade).",
+        "**Research themes:** Forest-wood sector, Wood products, Trade, Forest-based bioeconomy, Forest Policy, Urbanisation.",
+        "**Teaching responsabilities:** In charge of the Forest Information and Resource Strategies (FIRS) major at AgroParisTech (M.Sc.2)."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, INRAE, BETA",
+      "position": "Research Engineer",
+      "location": "Nancy, France",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Assessment of the economic and environmental impact of setting up a forest-based biorefinery in the Grand Est region of France.",
+      "highlights": [
+        "**Supervision:** Sylvain Caurla (INRAE), Verónica Acurio Vásconez (Université de Lorraine).",
+        "**Related project:** Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).",
+        "**Production:** Mathieu, V. (2020). Hy-C-Green project — Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). [https://hal.science/hal-04920115](https://hal.science/hal-04920115)"
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, INRAE, BETA",
+      "position": "Master Thesis",
+      "location": "Nancy, France",
+      "startDate": "2019-03",
+      "endDate": "2019-08",
+      "summary": "Analysis of wood trade flow models from the perspective of notions of place, space, and scale.",
+      "highlights": [
+        "**Supervision:** Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).",
+        "**Production:** Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). [https://hal.science/hal-04920111](https://hal.science/hal-04920111)"
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "UR Forêts et Sociétés, CIRAD",
+      "position": "Research Assistant",
+      "location": "Kuala Lumpur, Malaysia",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Biomass valorization for energy in Malaysia and Indonesia, including the financialization of agriculture and forestry and the rise of agribusiness corporations.",
+      "highlights": ["**Supervision:** Jean-Marc Roda (CIRAD)."]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Wood Department, Nord-Alsace Branch, Office National des Forêts",
+      "position": "Assistant Engineer",
+      "location": "Ingwiller, France",
+      "startDate": "2017-06",
+      "endDate": "2017-08",
+      "summary": "Review and update of standing timber to processed timber conversion price lists, to identify resource volumes to be marketed.",
+      "highlights": ["**Supervision:** Julien Prinet (National Forest Office of France)."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Université de Lorraine, Université de Strasbourg, AgroParisTech, CNRS, INRAE, BETA",
+      "area": "Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2020",
+      "endDate": "2023",
+      "location": "Nancy, France",
+      "url": "https://www.youtube.com/live/akKpbURJIlc?si=NvzuroHpeKTkRa5n",
+      "highlights": [
+        "**Thesis:** Wood, Cities, and Trade — An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade.",
+        "**Supervisors:** Sylvain Caurla (EIB), Jean-Marc Roda (CIRAD), Serge Garcia (INRAE).",
+        "**Committee:** Anne Toppinen, Philippe Cadène, Clément Nedoncelle, Meriem Fournier."
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "AgroParisTech",
+      "area": "Forest Science",
+      "studyType": "M.Sc.",
+      "startDate": "2015",
+      "endDate": "2019",
+      "location": "Nancy, France",
+      "highlights": ["**Major:** Forest Resources and Forest-based Industries (RFF)."]
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Université de Lorraine",
+      "area": "Economics",
+      "studyType": "M.Sc.",
+      "startDate": "2016",
+      "endDate": "2019",
+      "location": "Nancy, France",
+      "highlights": ["**Major:** Economics of Energy, Environmental and Digital Transition (ETEEN)."]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "institution": "AgroParisTech",
+      "area": "Forest Sciences",
+      "studyType": "Diploma in Forest Sciences and Engineering",
+      "startDate": "2016",
+      "endDate": "2019",
+      "location": "Nancy, France"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "institution": "AgroParisTech, Université de Lorraine",
+      "area": "Agrosciences, Environment, Territories, Landscape, Forest (AETPF)",
+      "studyType": "M.Sc.",
+      "startDate": "2018",
+      "endDate": "2019",
+      "location": "Nancy, France",
+      "highlights": ["**Major:** Wood, Forest, Sustainable Development (BFD)."]
+    },
+    {
+      "institution": "AgroParisTech",
+      "area": "International experience",
+      "studyType": "International Experience Certificate",
+      "startDate": "2017",
+      "endDate": "2018",
+      "location": "Paris, France"
+    },
+    {
+      "institution": "Lycée Privé Sainte Geneviève",
+      "area": "Life Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2015",
+      "location": "Versailles, France",
+      "highlights": ["**Major:** Biology, Chemistry, Physics, Earth Sciences (BCPST)."]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A meta-analysis on wood trade flow modeling concepts",
+      "publisher": "Forest Policy and Economics",
+      "releaseDate": "2023-04-01",
+      "url": "https://doi.org/10.1016/j.forpol.2023.102930",
+      "summary": "Based on a meta-analysis of 499 publications, this paper provides the first comprehensive overview of wood trade flow models, showing that they are predominantly used for policy analysis, rely on a narrow set of factors, and largely overlook emerging drivers such as urban dynamics."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Wood, Cities, and Trade — An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade",
+      "publisher": "Université de Lorraine",
+      "releaseDate": "2023-12-19",
+      "url": "https://hal.univ-lorraine.fr/tel-04594758",
+      "summary": "This thesis assesses the capacity of wood trade flow models to support sustainable resource management by examining their theoretical foundations, factor coverage, and data quality, while proposing new approaches that integrate urban dynamics, improve trade data reliability, and enhance the modeling of the global wood economy."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Panorama des recherches sur la forêt et le bois du département EcoSocio INRAE",
+      "publisher": "INRAE Sciences Sociales",
+      "releaseDate": "2023-06-26",
+      "url": "https://doi.org/10.22004/ag.econ.336034",
+      "summary": "Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Coding and software",
+      "level": "advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "R", "Snakemake", "GRASS GIS", "Quarto", "Markdown", "Git", "Claude Code"]
+    },
+    {
+      "name": "Multimedia graphics",
+      "level": "advanced",
+      "icon": "fa-solid fa-palette",
+      "keywords": ["Affinity", "Adobe Photoshop"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "French",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Data Science",
+      "icon": "fa-solid fa-file-csv",
+      "keywords": ["Machine learning", "Deep learning", "Bayesian modeling", "Network analysis"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Computational Reproducibility",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["Version control", "Environment control", "Workflow", "Computational document"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Scable-dev",
+      "summary": "Scaling cable yarding for low-impact timber harvesting in France.",
+      "startDate": "2025",
+      "endDate": "2027",
+      "highlights": [
+        "Macroeconomic impact of the national expansion of cable yarding on the forest-wood sector.",
+        "Comparison of the costs and availability of wood between harvesting methods.",
+        "Determinants of the costs and harvesting speed."
+      ]
+    },
+    {
+      "name": "Dominos",
+      "summary": "Studying the determinants of the rise of a forest-based bioeconomy in France.",
+      "startDate": "2022",
+      "endDate": "2027",
+      "highlights": [
+        "Attitudes and behaviors of the French people towards the use of wood for construction and energy.",
+        "Hierarchical cognitive modeling.",
+        "Discrete choice experiment."
+      ]
     }
   ]
 }
