@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 cv_pdf: /assets/rendercv/rendercv_output/Valentin_Mathieu_CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description:
+description: Research Engineer
 toc:
   sidebar: left
 ---
